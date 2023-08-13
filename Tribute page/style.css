@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&family=Foldit:wght@600&family=Inria+Serif:ital@0;1&family=Kaushan+Script&family=Noto+Serif+Display:wght@300&family=Rouge+Script&family=Style+Script&display=swap');
+
+
+*{
+    align-items: center;
+    /* display: flex; */
+    font-family: 'Inria Serif', serif;
+}
+header {
+    text-align: center;
+    /* background-color: black; */
+    color: #181144;
+    padding: 1rem;
+    letter-spacing: 12px;
+    font-size: 20px;
+}
+h1{
+    color: #181144;
+}
+footer{
+        text-align: center;
+        background-color: rgb(72, 69, 69);
+        color: #d9d7e4;
+        padding: 1rem;
+    
+}
+
+.one{
+    align-items: center;
+}
+.two{
+    align-items: center;
+    /* background-color: rgb(232, 148, 22); */
+    /* margin-left: 50px; */
+    padding-left: 40%;
+}
+.four{
+    width: 100%;
+    height: 1cm;
+    text-align: center;
+    padding: 25px;
+    background: #344343;
+    font-weight: 300;
+    margin-top: 20px;
+    opacity: 0.9;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
